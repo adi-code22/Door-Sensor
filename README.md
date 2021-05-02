@@ -1,5 +1,4 @@
-# design_project
-
+# Design Project 2020-21
 A new Flutter project.
 
 ## Getting Started
